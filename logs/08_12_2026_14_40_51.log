@@ -1,5 +1,0 @@
-[2026-08-12 14:40:51,370] 24 root - INFO - Entered the data ingestion component
-[2026-08-12 14:40:51,389] 27 root - INFO - Read the dataset as dataframe, shape: (2240, 29)
-[2026-08-12 14:40:51,488] 39 root - INFO - Data ingestion completed
-[2026-08-12 14:40:51,588] 94 root - INFO - Read train and test data
-[2026-08-12 14:40:51,624] 98 root - INFO - Feature engineering completed

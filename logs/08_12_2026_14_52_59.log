@@ -1,8 +1,0 @@
-[2026-08-12 14:52:59,707] 24 root - INFO - Entered the data ingestion component
-[2026-08-12 14:52:59,724] 27 root - INFO - Read the dataset as dataframe, shape: (2240, 29)
-[2026-08-12 14:52:59,764] 39 root - INFO - Data ingestion completed
-[2026-08-12 14:52:59,867] 96 root - INFO - Read train and test data
-[2026-08-12 14:52:59,997] 99 root - INFO - Imputed missing Income values
-[2026-08-12 14:53:00,046] 103 root - INFO - Feature engineering completed
-[2026-08-12 14:53:00,340] 117 root - INFO - Transformation complete. Train shape: (1792, 24)
-[2026-08-12 14:53:00,345] 123 root - INFO - Saved preprocessing object
