@@ -1,0 +1,3 @@
+Cluster,ID,Year_Birth,Income,Kidhome,Teenhome,Recency,MntWines,MntFruits,MntMeatProducts,MntFishProducts,MntSweetProducts,MntGoldProds,NumDealsPurchases,NumWebPurchases,NumCatalogPurchases,NumStorePurchases,NumWebVisitsMonth,AcceptedCmp3,AcceptedCmp4,AcceptedCmp5,AcceptedCmp1,AcceptedCmp2,Complain,Z_CostContact,Z_Revenue,Response
+0,5374.59,1967.4,71521.65,0.09,0.42,52.09,649.17,51.09,338.24,75.02,55.06,73.62,2.11,5.95,5.06,8.5,3.93,0.07,0.18,0.15,0.15,0.04,0.0,3.0,11.0,0.22
+1,5575.86,1968.8,39760.06,0.62,0.59,51.64,111.21,6.16,39.16,10.37,6.86,24.39,2.61,3.21,0.89,4.14,6.4,0.05,0.03,0.0,0.0,0.0,0.0,3.0,11.0,0.1
