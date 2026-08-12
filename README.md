@@ -155,5 +155,12 @@ Python, pandas, scikit-learn, FastAPI, Uvicorn, seaborn, matplotlib
 
 ## Deployment
 
-Deployed to AWS as a containerized FastAPI service. See deployment notes below
-*(update this section once AWS deployment is complete)*.
+## Deployment
+
+✅ **Live on AWS Elastic Beanstalk**
+
+**API URL:** `https://customer-segmentation-app-env.eba-da5zyywr.us-west-2.elasticbeanstalk.com`
+
+**Swagger UI:** `https://customer-segmentation-app-env.eba-da5zyywr.us-west-2.elasticbeanstalk.com/docs`
+
+Deployed using **AWS Elastic Beanstalk** with **GitHub Actions** CI/CD pipeline.
